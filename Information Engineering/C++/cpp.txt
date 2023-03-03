@@ -1,0 +1,3 @@
+LCM--- https://www.programiz.com/cpp-programming/examples/lcm
+Factorial--- programiz.com/cpp-programming/examples/factorial
+Prime nos--- https://www.geeksforgeeks.org/c-cpp-program-to-find-prime-numbers-between-given-range/

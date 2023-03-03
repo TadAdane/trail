@@ -1,0 +1,24 @@
+
+    /*cout << "Please enter the value of z" << endl;
+    int z, k = 0, factorialk;
+    float kat, sum = 0;
+    cin >> z << k;
+    int acc = 1;
+    for (k = 1; k <= 2;++k){
+
+        //for (kat = 1; kat <= k; ++kat) {
+
+        acc *= k;
+        kat = (pow(z,k))/acc;
+        sum += kat;
+            //cout << acc <<endl;
+        //}
+     //   cout << acc;
+    }
+    cout << sum << endl;
+    float naturale = exp(z);
+    cout << "The error is " << ((naturale - sum)/naturale)*100 << endl;
+   //cout << kat << endl;
+    //cout << acc << endl;*/
+
+    // no 4 the value of k

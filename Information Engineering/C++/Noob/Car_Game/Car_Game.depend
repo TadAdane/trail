@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668769758 source:c:\users\tadiwos adane\desktop\automatic control and robotics\information engineering\c++\array - 4\hw - functions\car_game\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
